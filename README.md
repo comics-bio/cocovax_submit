@@ -4,7 +4,7 @@
   - Main analysis module containing the CDS class
   - Implements sequence deoptimization algorithms
   - Provides tools for sequence analysis and evaluation
-- **cocovax_methods__calcute_cps_and_cai.py**
+- **cocovax_methods__calculate_cps_and_cai.py**
   - Utilities for calculating Codon Pair Scores (CPS)
   - Functions for computing CAI weights ($lnw$)
 - **Configuration Files**:
