@@ -7,6 +7,8 @@
 - **cocovax_methods__calculate_cps_and_cai.py**
   - Utilities for calculating Codon Pair Scores (CPS)
   - Functions for computing CAI weights ($lnw$)
+- **prompt.py**
+  - prompt for the Reference Library
 - **Configuration Files**:
   - `cai_choice.json`: Species-specific preferred codon choices for deoptimization
   - `cai_lnw.json`: Logarithmic weights for CAI calculation
